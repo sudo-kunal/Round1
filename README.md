@@ -9,3 +9,4 @@ Day2 - Tested the files and client server model using Virtualbox (Ubuntu) as the
 
 Day3 - Created and tested the nmapScanner.py
 
+Day4 - Created and tested Banner grabber and port scanner in python.
